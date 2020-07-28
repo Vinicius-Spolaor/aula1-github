@@ -9,7 +9,7 @@ public class ExerciciosJava {
 		
 		Scanner teclado = new Scanner(System.in);
 		
-		System.out.println("Digite um valor e eu direi se...");
+		System.out.println("Digite algum valor e eu direi se...");
 		System.out.println("1) É positivo ou negativo. ");
 		System.out.println("2) É par ou ímpar. ");
 		
